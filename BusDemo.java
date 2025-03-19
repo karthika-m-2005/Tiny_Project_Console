@@ -21,7 +21,7 @@ public class BusDemo {
 		
 		while(useroption == 1)
 		{
-		    System.out.print("Enter 1 to Book and 2 to Exit: ");
+		    System.out.print("Enter 1 to Book or enter 2 to Exit: ");
 		    useroption =  sc.nextInt();
 		    if(useroption == 1)
 		    {
